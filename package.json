@@ -1,6 +1,6 @@
 {
   "name": "feathers-hooks-validate-superstruct",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "FeathersJS hook for validating input using superstruct",
   "keywords": [
     "feathers",
