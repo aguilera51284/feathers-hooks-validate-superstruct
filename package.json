@@ -1,8 +1,16 @@
 {
   "name": "feathers-hooks-validate-superstruct",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "FeathersJS hook for validating input using superstruct",
-  "keywords": ["feathers", "feathersjs", "hook", "hooks", "validation", "validate", "superstruct"],
+  "keywords": [
+    "feathers",
+    "feathersjs",
+    "hook",
+    "hooks",
+    "validation",
+    "validate",
+    "superstruct"
+  ],
   "license": "MIT",
   "author": "Raymond Hammarling <raymond@hammarlings.se>",
   "main": "lib/index.js",
@@ -29,5 +37,9 @@
     "@feathersjs/errors": "^3.3.0",
     "feathers-hooks-common": "^4.10.0",
     "lodash.frompairs": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raymond-h/feathers-hooks-validate-superstruct"
   }
 }
